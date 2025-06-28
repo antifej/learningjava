@@ -1,0 +1,9 @@
+model AudiA3
+year 2012
+color black
+price 8900
+engine 1.5diesel
+maxspeed 220
+wheels 4
+seats 5
+weight 1950

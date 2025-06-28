@@ -1,0 +1,11 @@
+model Subaru-Forester
+color Red
+year 2025
+engine 2.2diesel
+mileage 10km
+vin SE-2340
+BodyType CrossRover
+BodyType CrossRover
+seats 4
+BodyType CrossRover
+seats 4
