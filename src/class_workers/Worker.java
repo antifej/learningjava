@@ -23,7 +23,7 @@ public  class Worker {
 	public void doWork() {
 		System.out.println(this.name + " is working as " + this.proffesion);
 		
-	};
+	}
 	
 	public void aboutWorker() {
 		System.out.println("Worker name: " +
